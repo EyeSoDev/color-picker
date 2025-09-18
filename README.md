@@ -1,12 +1,19 @@
-# React + Vite
+<div align="center">
+  <br>
+  <h1>Checkpoint project</h1>
+</div>
+<br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a checkpoint I built after learning React.
 
-Currently, two official plugins are available:
+## Color Picker
+I combined everything I learned from Codedex to create a simple **Color Picker**.  
+- Hover over a color to see its hex code.  
+- Click on a color to reveal its name.  
+- Use the left and right arrow keys to cycle through different color names.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Results
+<p align="center">
+  https://github.com/user-attachments/assets/19edae79-ce54-42d9-be8c-3b14175f7d0e
+</p>
+<br/>
