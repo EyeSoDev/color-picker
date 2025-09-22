@@ -13,7 +13,4 @@ I combined everything I learned from Codedex to create a simple **Color Picker**
 - Use the left and right arrow keys to cycle through different color names.  
 
 # Results
-<p align="center">
-  https://github.com/user-attachments/assets/19edae79-ce54-42d9-be8c-3b14175f7d0e
-</p>
-<br/>
+https://github.com/user-attachments/assets/9228a1af-d8fe-4aa0-94c0-0e6b6f409dd0
